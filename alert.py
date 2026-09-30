@@ -1,2 +1,2 @@
-def print_alert():
+def send_alert():
     print("Alerta de seguridad crítica")
