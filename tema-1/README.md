@@ -1,3 +1,3 @@
-# Tema 1
+# Despliegue de Aplicaciones Web
 
-Apuntes y ejercicios del tema 1.
+Repositorio de clase para apuntes, ejercicios y prácticas de la asignatura.
