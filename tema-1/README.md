@@ -2,7 +2,6 @@
 
 # 🔧 Git y GitHub
 
-Git y GitHub - Actividad documentada por Isabel Monica Martinez Lopez
 
 ## 🚀 Descripción de la actividad
 
