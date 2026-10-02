@@ -1,7 +1,7 @@
 
 #  Despliegue de aplicaciones web
 
-**Documentado por Isabel Monica Martinez Lopez**
+
 
 ##  Temas
 
