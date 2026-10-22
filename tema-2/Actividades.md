@@ -19,7 +19,7 @@
 - **Tipo de arquitectura:** Serverless (sin servidor).
 - **Justificación:** La función se ejecuta automáticamente cuando se sube una imagen a la nube. No hace falta tener un servidor funcionando todo el tiempo, porque el proveedor de la nube se encarga de gestionar la infraestructura y ejecutar la función cuando es necesario.
 
----
+--- 
 
 # Actividad 2 — Dibuja el diagrama
 
@@ -29,21 +29,23 @@
 
 **3. Capa de datos:** guarda toda la información de la tienda en una base de datos, como los usuarios, los productos y los pedidos.
 
-### Diagrama de arquitectura de 3 capas
+### Diagrama de arquitectura de 3 capas 
 
-```mermaid
-flowchart TD
-    A["Capa de presentación<br/>Página web<br/>Catálogo de productos<br/>Carrito de compra"]
-    B["Capa de lógica de negocio<br/>Gestión de pedidos<br/>Cálculo de precios<br/>Control de stock y pagos"]
-    C["Capa de datos<br/>Base de datos<br/>Usuarios, productos y pedidos"]
+![Esquema de las tres capas de la tienda online](esquema-tres-capas.png)
 
-    A --> B
-    B --> C
-```
 
-**Conclusión:** Las tres capas están separadas para tener el código mejor organizado y facilitar los cambios y el mantenimiento de la tienda online.
+### Esquema de las tres capas de la tienda online
 
----
+| Capa | Funciones |
+|---|---|
+| **Capa de presentación** | Página web, catálogo de productos y carrito de compra. |
+| **Capa de lógica de negocio** | Gestión de pedidos, cálculo de precios y control de stock y pagos. |
+| **Capa de datos** | Base de datos de usuarios, productos y pedidos. |
+
+**Conclusión:** Las tres capas están separadas para organizar mejor el código y facilitar los cambios y el mantenimiento de la tienda online.
+
+
+
 
 # Actividad 3 — TCP vs UDP
 
