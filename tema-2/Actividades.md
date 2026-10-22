@@ -1,3 +1,7 @@
+
+---
+---
+
 # Actividad 1 — Identificar la arquitectura
 
 **1. Una página web personal con HTML y CSS alojada en un único servidor.**
