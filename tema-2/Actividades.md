@@ -1,5 +1,4 @@
 
-
 # Actividad 1 — Identificar la arquitectura
 
 Para cada una de las siguientes aplicaciones, indica qué tipo de arquitectura crees que utiliza (monolítica, 3 capas, microservicios, serverless...) y justifica tu respuesta:
