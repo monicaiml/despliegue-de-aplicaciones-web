@@ -1,3 +1,8 @@
+---
+layout: default
+title: Práctica 3. VirtualHost en Apache
+---
+
 # Práctica 3. Configuración de VirtualHost en Apache
 
 En esta práctica he trabajado con dos sitios web en un mismo servidor Apache, utilizando VirtualHost para diferenciarlos mediante nombres de dominio.
