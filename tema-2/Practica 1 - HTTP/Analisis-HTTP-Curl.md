@@ -1,4 +1,8 @@
 
+---
+layout: default
+---
+
 # Práctica 1. Análisis de HTTP con curl
 
 ## 1. Comprobación de una petición HTTP con Edge
