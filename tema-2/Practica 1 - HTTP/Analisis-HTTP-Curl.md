@@ -1,6 +1,4 @@
 
-| **layout** | default |
-| ---------- | ------- |
 
 # Práctica 1. Análisis de HTTP con curl
 
