@@ -3,7 +3,7 @@ layout: default
 title: Práctica 3. VirtualHost en Apache
 ---
 
-# Práctica 3. Configuración de VirtualHost en Apache
+# Práctica 3. Configuración de VirtualHost en Apache 
 
 En esta práctica he trabajado con dos sitios web en un mismo servidor Apache, utilizando VirtualHost para diferenciarlos mediante nombres de dominio.
 
@@ -300,6 +300,6 @@ Puede mostrar archivos y directorios que no deberían estar accesibles públicam
 
 **4. ¿Qué pasaría si creo un tercer VirtualHost con el mismo ServerName que miweb1?**
 
-Se produciría un conflicto porque dos sitios tendrían el mismo nombre. Apache normalmente utilizaría el primer VirtualHost que coincida con ese nombre y podría mostrar un aviso de configuración duplicada.
+Se produciría una duplicidad porque dos sitios tendrían el mismo nombre. Apache normalmente utilizaría el primer VirtualHost que coincida con ese nombre, por lo que el tercero no se distinguiría de forma independiente.
 
 
