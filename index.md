@@ -4,7 +4,8 @@
 
 ## Temas
 
-- [Tema 1 - Git y GitHub](tema-1/)
+- [Tema 1 - Git y GitHub]
+  - [Práctica 1. Git y GitHub - Flujo de trabajo](tema-1/)
 
 - [Tema 2 - WWW y protocolo HTTP]
   - [Actividades](tema-2/Actividades.md)
